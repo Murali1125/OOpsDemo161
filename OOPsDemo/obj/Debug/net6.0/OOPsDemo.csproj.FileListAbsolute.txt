@@ -1,0 +1,15 @@
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\bin\Debug\net6.0\OOPsDemo.exe
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\bin\Debug\net6.0\OOPsDemo.deps.json
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\bin\Debug\net6.0\OOPsDemo.runtimeconfig.json
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\bin\Debug\net6.0\OOPsDemo.dll
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\bin\Debug\net6.0\OOPsDemo.pdb
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\obj\Debug\net6.0\OOPsDemo.csproj.AssemblyReference.cache
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\obj\Debug\net6.0\OOPsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\obj\Debug\net6.0\OOPsDemo.AssemblyInfoInputs.cache
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\obj\Debug\net6.0\OOPsDemo.AssemblyInfo.cs
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\obj\Debug\net6.0\OOPsDemo.csproj.CoreCompileInputs.cache
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\obj\Debug\net6.0\OOPsDemo.dll
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\obj\Debug\net6.0\refint\OOPsDemo.dll
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\obj\Debug\net6.0\OOPsDemo.pdb
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\obj\Debug\net6.0\OOPsDemo.genruntimeconfig.cache
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\OOPsDemo\OOPsDemo\obj\Debug\net6.0\ref\OOPsDemo.dll
