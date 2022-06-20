@@ -15,12 +15,15 @@ namespace OOPsDemo
         internal double Pi = 3.142;
         public int age  = 40;
         int mymarks = 40;
-        internal int Add(int num, int numTwo)
+        internal int Add(params int[] num)
         {
-            
-            int mymarks = 34;
-         
-            return num + numTwo;
+
+            int sum = 0;
+            foreach(int i in num)
+            {
+                sum += i;
+            }
+            return sum;
         }
         public int Sub(int num , int num2)
         {

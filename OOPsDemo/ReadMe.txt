@@ -26,18 +26,34 @@
 
 
 
-	4.Abstraction
+	4.Abstraction : is process of Hiding Implementation and providing functionality to the user
+				: interfaces : is also a type , contains abstractMethods
+					abstactmethod : which has only defination no any implementation
+
+					1. create interface => methods defination
+					2. create class => inherit interface=> implement the methods
+					3. create object of interface using the class
+
+					4. use/call the methods using object of interface
+				: abstract class:
+					1. create Abstract cls => abs : abstract/non Methods
+					2. create class => inherit ABS class 
+						=> implement Abs methods : use override key word for implementation 
+					3. create object of AbsClass using child class
+
+
+				
 	5.Polymorphisum
 	6.Encapsulation
 
 this : => cotains current object address
 static : => used to declare class level members
 Access Modifiers : 
-	public : it is available for all classes              :High
+	public : it is available for all classes              : High
 	internal : it is available inside a assembly/project  : littile than Public
 	protected : it is available inheriting classes		  : low
-	private : this memberes are iside same class		   : very less
-
+	private : this memberes are iside same class		  : very less
+enum : is also a type, lsit of constants
 
 application => 1.projects => 1.namespace1 => multple classes/ types
 		

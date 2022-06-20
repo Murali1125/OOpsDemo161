@@ -1,15 +1,62 @@
 ﻿using OOPsDemo;
 
 
-
 BasicCal bCal = new BasicCal();
-AdvCal aCal = new AdvCal();
-SciCal sCal = new SciCal();
-
-Console.WriteLine(bCal.Pi);
-bCal.Add(3, 0);
 
 
+
+//int distance = 1000; // km
+
+//string userUnit = Console.ReadLine();
+
+//Console.WriteLine(Convert.ToInt16( Units.mt));
+//if(userUnit == Convert.ToString( Units.cm))
+//{
+//    Console.WriteLine(1000 * 100 * 1000);
+//}else if (userUnit == Convert.ToString(Units.mt))
+//{
+//    Console.WriteLine(1000 * 1000);
+//}
+
+
+
+
+
+
+
+
+
+//IAbstactDemo abDemo = new AbstraactionDemo();
+
+//abDemo.Add(3, 4);
+
+//AbsClassDemo absObj = new ChildOfABSCLS();
+//absObj.Mul(2,5);
+
+
+
+
+
+
+
+
+//BasicCal bCal = new BasicCal();
+//AdvCal aCal = new AdvCal();
+//SciCal sCal = new SciCal();
+
+//Console.WriteLine(bCal.Pi);
+//bCal.Add(3, 0);
+
+// type vaName = new Object/constructor
+//var  myObj = new { name = "Murali", id = 21, RNo =1234 };
+//dynamic myVar;
+
+//myVar = 32;
+//myVar = "Murali";
+//myVar = 3.24232;
+//myVar = new BasicCal();
+
+//Console.WriteLine(myVar);
 
 
 
